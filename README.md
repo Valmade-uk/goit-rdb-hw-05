@@ -1,6 +1,5 @@
 # Relational Databases: Concepts and Techniques
 
----
 
 ## Тема завдання
 
