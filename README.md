@@ -1,7 +1,5 @@
 # Relational Databases: Concepts and Techniques
 
-## Домашнє завдання до Теми 5
-
 **Вкладені запити. Повторне використання коду**
 
 ---
